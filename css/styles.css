@@ -62,11 +62,7 @@ body {
 
 #hero::after {
   content: "";
-<<<<<<< HEAD
   background: url("../assets/hero.large.jpg") no-repeat;
-=======
-  background: url("./assets/hero.large.jpg") no-repeat;
->>>>>>> a384b036ee74ca5a557db079c22147d0351b5557
   background-size: cover;
   opacity: 0.6;
   top: 0;
@@ -241,10 +237,6 @@ input[type="submit"]:focus {
 
 @media only screen and (max-width: 991px) {
   #hero::after {
-<<<<<<< HEAD
     background: url("../assets/hero.medium.jpg") no-repeat;
-=======
-    background: url("./assets/hero.medium.jpg") no-repeat;
->>>>>>> a384b036ee74ca5a557db079c22147d0351b5557
   }
 }
